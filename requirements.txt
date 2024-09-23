@@ -1,0 +1,4 @@
+# Heroku expects this file to be located in the root directory
+#-r ./requirements/production.txt
+Django>=4.2.0
+mysqlclient>=2.1.1
